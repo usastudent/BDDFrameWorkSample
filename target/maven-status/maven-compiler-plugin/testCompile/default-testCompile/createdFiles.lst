@@ -1,0 +1,5 @@
+step\definitions\HomeStepDef.class
+step\definitions\RetailStepDef.class
+step\definitions\DesktopsStepDef.class
+runner\TestRunner.class
+step\definitions\Initializer.class

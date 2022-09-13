@@ -1,0 +1,7 @@
+page\objects\LoginPage.class
+page\objects\DesktopsPage.class
+page\objects\HomePage.class
+page\objects\RegisterPage.class
+utilities\Util.class
+core\Base.class
+utilities\CucumberReportingConfig.class
